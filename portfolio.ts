@@ -330,41 +330,23 @@ export const projects: ProjectType[] = [
       "https://www.dropbox.com/scl/fo/xq3cxfrilp8xxxz8f22vj/AMNbNP5JT_Bd43QghboSWhY?rlkey=q0ezmbo4sa3mwsn9fkqcjjzhw&st=rr1u2o3p&dl=0",
   },
 ];
-// export const feedbacks: FeedbackType[] = [
-//   {
-//     name: "Syed Jamal",
-//     role: "Frontend Developer at Meganos Software",
-//     feedback:
-//       "You were a wonderful addition to our team, alhumdulillah. I'm quite impressed with your abilities and professional practices. You approach problems from a unique perspective and always ask the right question. Finding a good teammate like Hanzla is extremely difficult. He has contributed to the growth of our organization and continues to do so. May Allah bless you with everything you desire.",
-//   },
-//   {
-//     name: "Wajahat Malek",
-//     role: "CEO at Duseca Software",
-//     feedback:
-//       "Hanzla has a deep understanding of web development technologies and is adept at using them to build scalable, robust, and secure web applications. He has worked on various projects, ranging from small-scale to large-scale, and has shown his ability to work collaboratively with others while maintaining a high level of productivity and quality. Hanzla is a pleasure to work with, and I have no doubt that he will be an asset to any team or organization. I highly recommend Hanzla for any Full Stack Django, React.js, or Blockchain development projects, and I wish him all the best in his future endeavors.",
-//   },
-//   {
-//     name: "Zaid Zaffar",
-//     role: "CEO at ZR Technologies",
-//     feedback:
-//       "Very skilled at what he does and has an in depth knowledge of Django and he's always ready to handle any challenges thrown at him. He's been a valuable member of my team and i look forward to working with him in the years to come",
-//   },
-// ];
+export const feedbacks: FeedbackType[] = [
+];
 
 // See object prototype on /types/section.ts page
 export const seoData: SEODataType = {
-  title: "Hanzla Tauqeer",
+  title: "Zaldy Jeg Piraman Portfolio",
   description: greetings.description,
-  author: "Hanzla Tauqeer",
-  image: "https://avatars.githubusercontent.com/u/59178380?v=4",
-  url: "https://developer-portfolio-1hanzla100.vercel.app",
+  author: "Zaldy Jeg Piraman",
+  image: "https://avatars.githubusercontent.com/u/107466559?s=96&v=4",
+  url: "https://developer-portfolio-zaldy.vercel.app",
   keywords: [
-    "Hanzla",
-    "Hanzla Tauqeer",
-    "@1hanzla100",
-    "1hanzla100",
+    "Zaldy",
+    "Zaldy Jeg Piraman",
+    "@zaldyjegpiraman",
+    "zaldyjegpiraman",
     "Portfolio",
-    "Hanzla Portfolio ",
-    "Hanzla Tauqeer Portfolio",
+    "Zaldy Portfolio",
+    "Zaldy Jeg Piraman Portfolio",
   ],
 };
