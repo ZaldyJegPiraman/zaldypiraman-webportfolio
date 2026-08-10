@@ -283,7 +283,7 @@ export const projects: ProjectType[] = [
     name: "Zaldy's E-Commerce Web Application",
     desc: "An electronic e-commerce store developed using ASP.NET MVC, with an MSSQL Database, hosted on an Amazon EC2 instance.",
     github: "https://github.com/ZaldyJegPiraman/AspMVCECommerce.git",
-    link: "http://zaldysecommerce.cloudns.ph/",
+    link: "http://zaldyecommerce.somee.com/Home/Index/",
     video: "https://bit.ly/3Plxh61",
   },
     {
