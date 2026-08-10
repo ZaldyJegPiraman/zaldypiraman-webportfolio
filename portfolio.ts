@@ -17,7 +17,7 @@ export const greetings: GreetingsType = {
   description:
    `I'm a Software Engineer and Full-Stack Web Developer with 10+ years of experience building enterprise web applications using C#, ASP.NET Core, Web API, Angular, and SQL Server. I specialize in developing scalable web applications, RESTful APIs, and cloud-based solutions, with experience across healthcare, finance, and e-commerce. I also leverage AI-assisted development tools like GitHub Copilot, Claude, and ChatGPT to improve productivity, code quality, and software delivery`,
   resumeLink:
-    "https://www.dropbox.com/scl/fi/ajez2bdr2ucwmzxwsuzkm/Zaldy-Jeg-Piraman-Resume.pdf?rlkey=7h8oerzrweapqtgwpttc9bp1x&st=xldog9p3&dl=0",
+    "https://www.dropbox.com/scl/fi/ajez2bdr2ucwmzxwsuzkm/Zaldy-Jeg-Piraman-Resume.pdf?rlkey=7h8oerzrweapqtgwpttc9bp1x&st=5zoyv5t3&dl=0",
 };
 
 export const openSource = {
