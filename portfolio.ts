@@ -206,7 +206,7 @@ export const experience : ExperienceType[] =[
     company: "CBRE GWS Business Support Services Philippines, Inc",
     companyLogo: "/img/icons/common/cbre.png",
     date: "Feb 2026 – July 2026",
-    desc: "As a Business Solutions Sr. Analyst at CBRE GWS Business Support Services Philippines, Inc., I co-develop and maintain the Converge Studio Web Application using Angular, ASP.NET Core Web API, PostgreSQL, and Python. I develop UI components, APIs, business logic, database functions, and stored procedures, implement AI-powered chatbot capabilities, enhance the Assumption Tool, optimize application performance, resolve issues, and collaborate with cross-functional teams to deliver scalable and reliable business solutions.",
+    desc: "As a Business Solutions Sr. Analyst at CBRE GWS Business Support Services Philippines, Inc., I co-develop and maintain the Converge Studio Web Application using Angular, ASP.NET Core Web API, PostgreSQL, and Python. I develop UI components, APIs, business logic, database functions, and stored procedures; participate in designing and integrating AI-powered chatbot capabilities; enhance the Assumption Tool; optimize application performance; resolve technical issues; and collaborate with cross-functional teams to deliver scalable, reliable, and innovative business solutions",
   },
   {
     role: "System Analyst / Programmer",
