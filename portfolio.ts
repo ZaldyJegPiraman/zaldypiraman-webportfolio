@@ -49,40 +49,40 @@ export const skillsSection: SkillsSectionType = {
 ],
       softwareSkills: [
         {
-          skillName: "Python",
-          iconifyTag: "logos:python",
+           skillName: "MSSQL",
+  iconifyTag: "devicon:microsoftsqlserver",
         },
         {
-          skillName: "Django",
-          iconifyTag: "vscode-icons:file-type-django",
+     skillName: "Azure",
+  iconifyTag: "logos:azure",
         },
         {
           skillName: "JavaScript",
           iconifyTag: "logos:javascript",
         },
         {
-          skillName: "Reactjs",
-          iconifyTag: "vscode-icons:file-type-reactjs",
+          skillName: "CSharp",
+          iconifyTag: "vscode-icons:file-type-csharp",
         },
         {
-          skillName: "Nextjs",
-          iconifyTag: "vscode-icons:file-type-light-next",
+        skillName: "Github Copilot",
+  iconifyTag: "simple-icons:githubcopilot",
         },
         {
-          skillName: "AWS",
-          iconifyTag: "logos:aws",
-        },
-        {
-          skillName: "Heroku",
-          iconifyTag: "logos:heroku-icon",
+          skillName: "Typescript",
+          iconifyTag: "vscode-icons:file-type-typescript-official",
         },
         {
           skillName: "Github",
           iconifyTag: "akar-icons:github-fill",
         },
         {
-          skillName: "Docker",
-          iconifyTag: "logos:docker-icon",
+          skillName: "Angular",
+          iconifyTag: "vscode-icons:file-type-angular",
+        },
+            {
+       skillName: "ASP NET Core",
+  iconifyTag: "devicon:dotnetcore",
         },
       ],
     },
@@ -177,18 +177,37 @@ export const SkillBars: SkillBarsType[] =[
   },
 ];
 
-export const educationInfo: EducationType[] = [
+export const educationInfo : EducationType[] = [
   {
-    schoolName: "University of Central Punjab",
-    subHeader: "Bachelor of Science in Computer Science",
-    duration: "September 2017 - April 2020",
-    desc: "",
-    grade: "Grade A",
-    descBullets: [], // Array of Strings
+    schoolName: "STI College",
+    subHeader: "Bachelor of Science in Information Technology",
+    duration: "June 2006 - May 2010",
+    desc: "Participate in the development of the following projects for learning purposes.",
+    descBullets: [
+      "Timekeeping and Payroll with Biometrics (Thesis Project)",
+      "Baccarat Scoreboard (Freelance Project for Casino Widus)",
+    ],
   },
 ];
+// export const educationInfo: EducationType[] = [
+//   {
+//     schoolName: "University of Central Punjab",
+//     subHeader: "Bachelor of Science in Computer Science",
+//     duration: "September 2017 - April 2020",
+//     desc: "",
+//     grade: "Grade A",
+//     descBullets: [], // Array of Strings
+//   },
+// ];
 
 export const experience : ExperienceType[] =[
+    {
+    role: "Business Solutions Sr. Analyst",
+    company: "CBRE GWS Business Support Services Philippines, Inc",
+    companyLogo: "/img/icons/common/cbre.png",
+    date: "Feb 2026 – July 2026",
+    desc: "As a Business Solutions Sr. Analyst at CBRE GWS Business Support Services Philippines, Inc., I co-develop and maintain the Converge Studio Web Application using Angular, ASP.NET Core Web API, PostgreSQL, and Python. I develop UI components, APIs, business logic, database functions, and stored procedures, implement AI-powered chatbot capabilities, enhance the Assumption Tool, optimize application performance, resolve issues, and collaborate with cross-functional teams to deliver scalable and reliable business solutions.",
+  },
   {
     role: "System Analyst / Programmer",
     company: "ICare (Insular Health Care)",
@@ -266,6 +285,20 @@ export const projects: ProjectType[] = [
     github: "https://github.com/ZaldyJegPiraman/AspMVCECommerce.git",
     link: "http://zaldysecommerce.cloudns.ph/",
     video: "https://bit.ly/3Plxh61",
+  },
+    {
+    name: "CBRE Converge Studio Web Application",
+    desc: ` A centralized solutions
+and pricing platform that standardizes and automates
+CBRE’s solution-building and pricing workflow. It integrates
+solution, staffing, pricing, procurement, and reporting
+data while reducing manual work and improving
+accuracy. Includes AI capabilities with an AI-powered
+chatbot that answers natural-language questions about
+pricing, staffing, and other business data. Developed
+using Angular, ASP.NET Core Web API, and PostgreSQL`,
+    image:
+      "https://www.dropbox.com/scl/fo/c764f6ofnn0ryyhopp4l4/ALXi7dR2YhCS7OiJ8AazBEs?rlkey=ts1aqx82jjiue6k5m858j5tr7&st=f9zecym2&dl=0",
   },
   {
     name: "Metrobank RFE Application (Remittance File Extractor)",
