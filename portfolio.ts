@@ -284,7 +284,7 @@ export const projects: ProjectType[] = [
     desc: "An electronic e-commerce store developed using ASP.NET MVC, with an MSSQL Database, hosted on an Amazon EC2 instance.",
     github: "https://github.com/ZaldyJegPiraman/AspMVCECommerce.git",
     link: "http://zaldyecommerce.somee.com/Home/Index/",
-    video: "https://bit.ly/3Plxh61",
+    video: "https://youtu.be/ta7UYgGddwc?si=0m5rLwUNuSEplvig",
   },
     {
     name: "CBRE Converge Studio Web Application",
